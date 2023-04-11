@@ -1,0 +1,10 @@
+com\example\desafio\repository\UserRepository.class
+com\example\desafio\service\exception\ResourceNotFoundException.class
+com\example\desafio\repository\AddressRepository.class
+com\example\desafio\entities\UserEntity.class
+com\example\desafio\Application.class
+com\example\desafio\service\AddressService.class
+com\example\desafio\service\UserService.class
+com\example\desafio\controller\AddressController.class
+com\example\desafio\entities\AddressEntity.class
+com\example\desafio\controller\UserController.class
